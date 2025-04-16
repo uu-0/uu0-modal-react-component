@@ -24,6 +24,8 @@ const Container = styled.div`
   background-color: white;
   padding: 20px;
   border-radius: 10px;
+  min-width: 300px;
+  min-height: 200px;
   max-width: 500px;
   width: 100%;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
